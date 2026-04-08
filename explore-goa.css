@@ -146,6 +146,9 @@ hr{
 /* Media Query */
 /* mobile-view */
 @media(max-width:575.98px){
+    html{
+        width: 575px;
+    }
     .features{
         gap: 5px;
     }

@@ -506,6 +506,9 @@ a{
 /* Media Query */
 /* mobile-view */
 @media(max-width:575.98px){
+    html{
+        width: 575px;
+    }
     .nav_search{
         height: 190px;
         width: 100%;
